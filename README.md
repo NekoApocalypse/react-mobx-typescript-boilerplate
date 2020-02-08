@@ -1,6 +1,6 @@
-# Boilerplate for frontend project with React, MobX, TypeScript and etc.
+# Boilerplate for frontend project with React, MobX, TypeScript etc.
 
-This project is initiated with create-react-app, with a few extra features.
+This project is initiated with create-react-app, with some extra features.
 
 ## Features
 
@@ -17,3 +17,5 @@ This project is initiated with create-react-app, with a few extra features.
 * `MobX` for state management
 * `React Router` for routing, with `MobX` integration
 * `Axios` for http requests
+* Custom `TSLint` and `Prettier` rules
+* Tweaked project structure
