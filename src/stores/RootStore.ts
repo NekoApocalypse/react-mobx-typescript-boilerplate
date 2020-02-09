@@ -5,7 +5,7 @@ class RootStore {
   todoStore: TodoStore
   routingStore: RouterStore
   constructor() {
-    // initiates other storesl
+    // initiates other stores
     this.todoStore = new TodoStore()
     this.routingStore = new RouterStore()
   }
