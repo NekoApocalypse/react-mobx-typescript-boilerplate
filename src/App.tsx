@@ -2,7 +2,7 @@ import React from 'react'
 import { observer } from 'mobx-react'
 import { Router, Switch, Route } from 'react-router-dom'
 
-import DefaultApp from './containers/DefaultApp'
+import DefaultApp from './components/DefaultApp'
 import RoutingDemo from './containers/RoutingDemo'
 import RootStore from './stores/RootStore'
 import setupRoutingStore from './utils/setupRoutingStore'
